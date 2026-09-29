@@ -1,0 +1,11 @@
+.wpfv-wrap .wpfv-row{background:#fff;border:1px solid #c3c4c7;border-radius:6px;padding:12px 14px;margin:0 0 10px;max-width:860px}
+.wpfv-wrap .wpfv-row.is-focus{border-color:#2271b1;box-shadow:0 0 0 2px rgba(34,113,177,.25)}
+.wpfv-head{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+.wpfv-name{display:flex;align-items:center;gap:2px;font-family:Menlo,Consolas,monospace;font-size:13px}
+.wpfv-name input{width:220px;font-family:inherit}
+.wpfv-head .wpfv-del{margin-left:auto;color:#b32d2e}
+.wpfv-value input[type=text],.wpfv-value input[type=url],.wpfv-value input[type=number],.wpfv-value textarea{width:100%}
+.wpfv-value .CodeMirror{border:1px solid #c3c4c7;height:200px}
+.wpfv-image{display:flex;align-items:center;gap:10px}
+.wpfv-thumb{width:64px;height:64px;object-fit:cover;border:1px solid #c3c4c7;border-radius:4px;background:#f0f0f1}
+.wpfv-empty{color:#646970;font-style:italic}
